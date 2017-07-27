@@ -1,0 +1,9 @@
+* Baidu Mp3 Extractor Chrome Extension
+The extension help download the mp3 from [[http://music.baidu.com]].
+
+** What it does
+
+** How to use
+
+** Future development idea
+- Extract lyrics and pictures put them in the same directory.
